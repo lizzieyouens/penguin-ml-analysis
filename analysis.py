@@ -1,6 +1,6 @@
 """
 Penguin Species Classification using Supervised Machine Learning
-Author: <Your Name>
+Author: Lizzie Youens
 Module: Data Analysis and Machine Learning
 """
 
